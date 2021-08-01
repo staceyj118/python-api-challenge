@@ -82,7 +82,7 @@ Working with weather data to plan future vacations using jupyter-gmaps and Googl
 
 ### Narrow down the DataFrame to find your ideal weather condition. 
 
-  * A max temperature lower than 80 degrees but higher than 70.
+  * A max temperature lower than 85 degrees but higher than 70.
 
   * Wind speed less than 10 mph.
 
